@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning more about DevOps tools.
+- 🌱
 - ⚡ Fun fact: ... EARTH IS NOT FLAT :wink:
 <!--
 **imnitin28/imnitin28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
