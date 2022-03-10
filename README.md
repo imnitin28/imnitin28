@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - [Introduction to Terraform - 1](https://blog.knoldus.com/introduction-to-terraform-1/)
 - [Spinning up Terraform configuration - 2](https://blog.knoldus.com/spinning-up-terraform-configuration-2/)
 - [Quick start : Terratest with Terraform](https://blog.knoldus.com/quick-start-terratest-with-terraform/)
+- [Manage Secrets with AWS-VAULT](https://blog.knoldus.com/manage-aws-secrets-with-aws-vault/)
 ## Ansible
 - [Setup AWS resource using Anisble modules](https://blog.knoldus.com/setup-aws-resources-using-ansible-modules/)
 - [Create Networking resources in aws using Ansible Modules.](https://blog.knoldus.com/create-network-infrastructure-on-aws-using-ansible-modules/)
@@ -37,6 +38,8 @@ Here are some ideas to get you started:
 ## Git
 - [GIT branching and merging](https://blog.knoldus.com/quick-overview-to-git-branch-and-merge/)
 - [GIT Squash](https://blog.knoldus.com/squash-commits-in-git/)
+## Docker
+- [Setup Jenkins in Docker Container](https://blog.knoldus.com/setup-jenkins-in-docker-container/)
 <!-- BLOG-POST-LIST:END -->
 
 
