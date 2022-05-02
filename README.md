@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Click Here](https://blog.knoldus.com/author/minitin28/)
+
 <!-- BLOG-POST-LIST:END -->
 
+---
 
 [![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnitin28&show_icons=true&theme=radical)]
 
